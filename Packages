@@ -1,0 +1,71 @@
+Package: com.HBWechatHelper.ailun
+Version: 2.1.3
+Architecture: iphoneos-arm64e
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: debs/黄白助手2.1-3_隐根.deb
+Size: 31057924
+MD5sum: 1852d79667980891b503a51953a70b1a
+SHA1: a4e393cf4e982accc8314931ceadd9b6bd69793e
+SHA256: 44764e26f1fbb449d48f475d59d655b85e4585a593ff4a8e9d4307819b3e6dfb
+Section: Mao
+Description: 黄白助手-微信插件，点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况 Live 图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载 dylib 文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能
+Author: HuangBai <QQ:1343309363@qq.com>
+Name: 黄白助手(微信插件)-Rootless
+
+Package: com.axs.ios16dao
+Version: 5.2.0-205
+Architecture: iphoneos-arm64e
+Maintainer: Axs
+Installed-Size: 664
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist
+Filename: debs/A狗动态岛破解版205(roothide).deb
+Size: 103576
+MD5sum: 620cb7908f3bc6fe05c580ffc3a5928e
+SHA1: 40ace737fc3aee1ca4ecb2436752e11e5f93acd7
+SHA256: ba5c25d5d35c80a63f575fccf3a8fd1514f4d8779e23824fe93e389bd7ea349a
+Section: 灵动岛
+Description: 灵动岛媒体美化增强，支持 PNG/JPG/GIF/MP4,录屏隐藏原生岛与阴影兼容控制。集成授权校验联系:VCR66T
+Author: Axs
+Icon: https://axs66.github.io/pro/icon/dynamicnotland.png
+Name: ios16灵动岛
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/ios16dao/js.json
+
+Package: com.curtin.pkc.rootless
+Version: 0.9-7
+Architecture: iphoneos-arm64
+Maintainer: curtinlv@126.com
+Depends: firmware (>= 5.0)
+Filename: debs/com.curtin.pkc.rootless_0.9-7_iphoneos-arm64.deb
+Size: 1368048
+MD5sum: a5555f46e63919f3a77e981efc9dffa9
+SHA1: 95862195485694f53b2f996be95b6621bd6ac46e
+SHA256: 04a13c17329bfc8f85e86b17f9fac8544fe0600a18fcb3dbd91d05d20de17b80
+Section: 微信插件
+Priority: optional
+Homepage: https://github.com/curtinlv
+Description: AI对话、AI聊天分析、AI朋友圈分析、AI图像生成、AI视频生成、群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等 【提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。】
+Author: Curtin
+Icon: https://raw.githubusercontent.com/curtinlv/PKCUpdateLog/main/img/pkc_4_135x135.png
+Name: PKC_无根
+
+Package: com.curtin.pkc.rootless
+Version: 0.9-8
+Architecture: iphoneos-arm64
+Maintainer: curtinlv@126.com
+Depends: firmware (>= 5.0)
+Filename: debs/com.curtin.pkc.rootless_0.9-8_iphoneos-arm64.deb
+Size: 1378272
+MD5sum: c1180fbf5fa81189d698c2f3b0337500
+SHA1: 7634387950a6eba44dc0ce5cffe932a258ada7d9
+SHA256: 635fdbed50f7c2b3d47fc7e0ce254a42af97ae97547c76262cd21d8365ea6d75
+Section: 微信插件
+Priority: optional
+Homepage: https://github.com/curtinlv
+Description: AI对话、AI聊天分析、AI朋友圈分析、AI图像生成、AI视频生成、群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等 【提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。】
+Author: Curtin
+Icon: https://raw.githubusercontent.com/curtinlv/PKCUpdateLog/main/img/pkc_4_135x135.png
+Name: PKC_无根
+
