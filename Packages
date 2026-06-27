@@ -4,7 +4,7 @@ Architecture: iphoneos-arm64e
 Maintainer: HuangBai <QQ:1343309363@qq.com>
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate
-Filename: debs/黄白助手2.1-3_隐根.deb
+Filename: ./debs/黄白助手2.1-3_隐根.deb
 Size: 31057924
 MD5sum: 1852d79667980891b503a51953a70b1a
 SHA1: a4e393cf4e982accc8314931ceadd9b6bd69793e
@@ -21,7 +21,7 @@ Maintainer: Axs
 Installed-Size: 664
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist
-Filename: debs/A狗动态岛破解版205(roothide).deb
+Filename: ./debs/A狗动态岛破解版205(roothide).deb
 Size: 103576
 MD5sum: 620cb7908f3bc6fe05c580ffc3a5928e
 SHA1: 40ace737fc3aee1ca4ecb2436752e11e5f93acd7
@@ -38,7 +38,7 @@ Version: 0.9-7
 Architecture: iphoneos-arm64
 Maintainer: curtinlv@126.com
 Depends: firmware (>= 5.0)
-Filename: debs/com.curtin.pkc.rootless_0.9-7_iphoneos-arm64.deb
+Filename: ./debs/com.curtin.pkc.rootless_0.9-7_iphoneos-arm64.deb
 Size: 1368048
 MD5sum: a5555f46e63919f3a77e981efc9dffa9
 SHA1: 95862195485694f53b2f996be95b6621bd6ac46e
@@ -56,7 +56,7 @@ Version: 0.9-8
 Architecture: iphoneos-arm64
 Maintainer: curtinlv@126.com
 Depends: firmware (>= 5.0)
-Filename: debs/com.curtin.pkc.rootless_0.9-8_iphoneos-arm64.deb
+Filename: ./debs/com.curtin.pkc.rootless_0.9-8_iphoneos-arm64.deb
 Size: 1378272
 MD5sum: c1180fbf5fa81189d698c2f3b0337500
 SHA1: 7634387950a6eba44dc0ce5cffe932a258ada7d9
