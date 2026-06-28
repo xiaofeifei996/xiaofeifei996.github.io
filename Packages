@@ -4,7 +4,7 @@ Architecture: iphoneos-arm64e
 Maintainer: HuangBai <QQ:1343309363@qq.com>
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate
-Filename: ./debs/黄白助手2.1-3_隐根.deb
+Filename: debs/黄白助手2.1-3_隐根.deb
 Size: 31057924
 MD5sum: 1852d79667980891b503a51953a70b1a
 SHA1: a4e393cf4e982accc8314931ceadd9b6bd69793e
@@ -21,7 +21,7 @@ Maintainer: Axs
 Installed-Size: 664
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist
-Filename: ./debs/A狗动态岛破解版205(roothide).deb
+Filename: debs/A狗动态岛破解版205(roothide).deb
 Size: 103576
 MD5sum: 620cb7908f3bc6fe05c580ffc3a5928e
 SHA1: 40ace737fc3aee1ca4ecb2436752e11e5f93acd7
@@ -33,12 +33,29 @@ Icon: https://axs66.github.io/pro/icon/dynamicnotland.png
 Name: ios16灵动岛
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/ios16dao/js.json
 
+Package: com.binglan.dynamicfx
+Version: 1.0.7
+Architecture: iphoneos-arm64e
+Maintainer: 冰蓝
+Installed-Size: 772
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Filename: debs/冰蓝灵动岛_1.0.7_iphoneos-arm64e.deb
+Size: 168752
+MD5sum: 63a96effed702a68daae7bfb1691028b
+SHA1: 72a4b9e2c113472bfebfe22cbab96f0926ce80af
+SHA256: d3174702f63bc5f54169a896648aa27237900fc2cf702875af3cbd9ee591f15e
+Section: Tweaks
+Description: 灵动岛背景？
+Author: 冰蓝
+Name: DynamicFX
+
 Package: com.curtin.pkc.rootless
 Version: 0.9-7
 Architecture: iphoneos-arm64
 Maintainer: curtinlv@126.com
 Depends: firmware (>= 5.0)
-Filename: ./debs/com.curtin.pkc.rootless_0.9-7_iphoneos-arm64.deb
+Filename: debs/com.curtin.pkc.rootless_0.9-7_iphoneos-arm64.deb
 Size: 1368048
 MD5sum: a5555f46e63919f3a77e981efc9dffa9
 SHA1: 95862195485694f53b2f996be95b6621bd6ac46e
@@ -56,7 +73,7 @@ Version: 0.9-8
 Architecture: iphoneos-arm64
 Maintainer: curtinlv@126.com
 Depends: firmware (>= 5.0)
-Filename: ./debs/com.curtin.pkc.rootless_0.9-8_iphoneos-arm64.deb
+Filename: debs/com.curtin.pkc.rootless_0.9-8_iphoneos-arm64.deb
 Size: 1378272
 MD5sum: c1180fbf5fa81189d698c2f3b0337500
 SHA1: 7634387950a6eba44dc0ce5cffe932a258ada7d9
@@ -68,4 +85,20 @@ Description: AI对话、AI聊天分析、AI朋友圈分析、AI图像生成、AI
 Author: Curtin
 Icon: https://raw.githubusercontent.com/curtinlv/PKCUpdateLog/main/img/pkc_4_135x135.png
 Name: PKC_无根
+
+Package: com.guozi.wechatnewtool
+Version: 520-V7
+Architecture: iphoneos-arm64e
+Maintainer: GuoZi
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
+Filename: debs/果汁的朋友圈520V7 隐根.deb
+Size: 41202872
+MD5sum: 4dc7ac96ef0faa1dfd73327e7949626e
+SHA1: 3c72c8272f7c3c7a5dcdce62990667a9d64a0026
+SHA256: bea512f049a30e5a64dcdc77b81911bf571e880bd9c5ea88bffec52ae2b92571
+Section: Tweaks
+Description: 你的微信,岂止于此,点到为止,一个即可.果汁的朋友圈,一个全新的综合性插件,你想要的全都有
+Author: GuoZi
+Name: 果汁的朋友圈
 
