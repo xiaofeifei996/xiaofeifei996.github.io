@@ -86,22 +86,6 @@ Author: Curtin
 Icon: https://raw.githubusercontent.com/curtinlv/PKCUpdateLog/main/img/pkc_4_135x135.png
 Name: PKC_无根
 
-Package: com.guozi.wechatnewtool
-Version: 520-V7
-Architecture: iphoneos-arm64e
-Maintainer: GuoZi
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
-Filename: debs/果汁的朋友圈520V7 隐根.deb
-Size: 41202872
-MD5sum: 4dc7ac96ef0faa1dfd73327e7949626e
-SHA1: 3c72c8272f7c3c7a5dcdce62990667a9d64a0026
-SHA256: bea512f049a30e5a64dcdc77b81911bf571e880bd9c5ea88bffec52ae2b92571
-Section: Tweaks
-Description: 你的微信,岂止于此,点到为止,一个即可.果汁的朋友圈,一个全新的综合性插件,你想要的全都有
-Author: GuoZi
-Name: 果汁的朋友圈
-
 Package: com.simon.ccweathermodule
 Version: 1.0.4
 Architecture: iphoneos-arm64e
