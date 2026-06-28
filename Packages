@@ -50,6 +50,22 @@ Description: 灵动岛背景？
 Author: 冰蓝
 Name: DynamicFX
 
+Package: com.charlieleung.liquidify
+Version: 1.2.0
+Architecture: iphoneos-arm64e
+Maintainer: Charlie Leung
+Installed-Size: 35628
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/液态玻璃_1456393707_roothide.deb
+Size: 9379094
+MD5sum: 2303af4fc904998e755df4f8c28e9103
+SHA1: b3086fa776a6aa502b89016561688139be0d1e65
+SHA256: 03c32fcda87ce3d554b8f748bd6488042bc9b13bb6de18a5d0a04c88d1b7f066
+Section: Tweaks
+Description: 为 iOS 界面注入液态玻璃质感。
+Author: Charlie Leung
+Name: Liquidify
+
 Package: com.curtin.pkc.rootless
 Version: 0.9-7
 Architecture: iphoneos-arm64
