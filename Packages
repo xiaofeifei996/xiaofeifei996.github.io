@@ -4,7 +4,7 @@ Architecture: iphoneos-arm64e
 Maintainer: HuangBai <QQ:1343309363@qq.com>
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate
-Filename: debs/com.HBWechatHelper.ailun_2.1.3_iphoneos-arm64e.deb
+Filename: ./debs/com.HBWechatHelper.ailun_2.1.3_iphoneos-arm64e.deb
 Size: 22055432
 MD5sum: 786b1841ff0468faf4732e819befc255
 SHA1: 1c987b8f464b1ab5ca509eb018c2e80fb452c1cf
@@ -21,7 +21,7 @@ Maintainer: Axs
 Installed-Size: 664
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist
-Filename: debs/A狗动态岛破解版205(roothide).deb
+Filename: ./debs/A狗动态岛破解版205(roothide).deb
 Size: 103576
 MD5sum: 620cb7908f3bc6fe05c580ffc3a5928e
 SHA1: 40ace737fc3aee1ca4ecb2436752e11e5f93acd7
@@ -40,7 +40,7 @@ Maintainer: 冰蓝
 Installed-Size: 772
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
-Filename: debs/冰蓝灵动岛_1.0.7_iphoneos-arm64e.deb
+Filename: ./debs/冰蓝灵动岛_1.0.7_iphoneos-arm64e.deb
 Size: 168752
 MD5sum: 63a96effed702a68daae7bfb1691028b
 SHA1: 72a4b9e2c113472bfebfe22cbab96f0926ce80af
@@ -56,7 +56,7 @@ Architecture: iphoneos-arm64e
 Maintainer: Charlie Leung
 Installed-Size: 35628
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/液态玻璃_1456393707_roothide.deb
+Filename: ./debs/液态玻璃_1456393707_roothide.deb
 Size: 9379094
 MD5sum: 2303af4fc904998e755df4f8c28e9103
 SHA1: b3086fa776a6aa502b89016561688139be0d1e65
@@ -71,7 +71,7 @@ Version: 0.9-7
 Architecture: iphoneos-arm64
 Maintainer: curtinlv@126.com
 Depends: firmware (>= 5.0)
-Filename: debs/com.curtin.pkc.rootless_0.9-7_iphoneos-arm64.deb
+Filename: ./debs/com.curtin.pkc.rootless_0.9-7_iphoneos-arm64.deb
 Size: 1368048
 MD5sum: a5555f46e63919f3a77e981efc9dffa9
 SHA1: 95862195485694f53b2f996be95b6621bd6ac46e
@@ -89,7 +89,7 @@ Version: 0.9-8
 Architecture: iphoneos-arm64
 Maintainer: curtinlv@126.com
 Depends: firmware (>= 5.0)
-Filename: debs/com.curtin.pkc.rootless_0.9-8_iphoneos-arm64.deb
+Filename: ./debs/com.curtin.pkc.rootless_0.9-8_iphoneos-arm64.deb
 Size: 1378272
 MD5sum: c1180fbf5fa81189d698c2f3b0337500
 SHA1: 7634387950a6eba44dc0ce5cffe932a258ada7d9
@@ -104,16 +104,15 @@ Name: PKC_无根
 
 Package: com.my.lingdongvideo
 Version: 0.1.4.603
-Architecture: iphoneos-arm64e
+Architecture: iphoneos-arm64
 Maintainer: 夜辰
 Installed-Size: 1184
-Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, preferenceloader, firmware (>= 16.0)
-Filename: debs/com.my.lingdongvideo_0.1.4.603_iphoneos-arm64e.deb
-Size: 348372
-MD5sum: 8fb96ce3bebde22e821830f61a02f1a5
-SHA1: cd5220a86483645b4a1a07f51d3713ac768393d8
-SHA256: cff27b2c8a47496d57c956d8b1691adba85ebff2b7c0a7be56cbdee9792f9719
+Filename: ./debs/com.my.lingdongvideo_0.1.4.603_iphoneos-arm64.deb
+Size: 238802
+MD5sum: 9a865e6a896988931d323baf05f6adfc
+SHA1: 7a531f6e2b42487be695136a4d47f99d5e3662d4
+SHA256: f2b3a788ca3166a33e062453097da8946916607cae2028ac120573cfdfb6034d
 Section: Tweaks
 Description: 为灵动岛音乐播放、展开态和通知场景增加统一视频背景。
 Author: 夜辰
@@ -121,15 +120,16 @@ Name: 灵动岛视频背景
 
 Package: com.my.lingdongvideo
 Version: 0.1.4.603
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm64e
 Maintainer: 夜辰
 Installed-Size: 1184
+Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, preferenceloader, firmware (>= 16.0)
-Filename: debs/com.my.lingdongvideo_0.1.4.603_iphoneos-arm64.deb
-Size: 238802
-MD5sum: 9a865e6a896988931d323baf05f6adfc
-SHA1: 7a531f6e2b42487be695136a4d47f99d5e3662d4
-SHA256: f2b3a788ca3166a33e062453097da8946916607cae2028ac120573cfdfb6034d
+Filename: ./debs/com.my.lingdongvideo_0.1.4.603_iphoneos-arm64e.deb
+Size: 348372
+MD5sum: 8fb96ce3bebde22e821830f61a02f1a5
+SHA1: cd5220a86483645b4a1a07f51d3713ac768393d8
+SHA256: cff27b2c8a47496d57c956d8b1691adba85ebff2b7c0a7be56cbdee9792f9719
 Section: Tweaks
 Description: 为灵动岛音乐播放、展开态和通知场景增加统一视频背景。
 Author: 夜辰
@@ -142,7 +142,7 @@ Maintainer: simon
 Installed-Size: 356
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, firmware (>= 14.0)
-Filename: debs/com.simon.ccweathermodule_1.0.4_iphoneos-arm64e-1.deb
+Filename: ./debs/com.simon.ccweathermodule_1.0.4_iphoneos-arm64e-1.deb
 Size: 102292
 MD5sum: 04994702e7b4a3f96c887f5de956c232
 SHA1: b47db41d97071d6d58adf4da1f63f579fd1e87e4
