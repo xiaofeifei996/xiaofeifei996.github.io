@@ -86,6 +86,39 @@ Author: Curtin
 Icon: https://raw.githubusercontent.com/curtinlv/PKCUpdateLog/main/img/pkc_4_135x135.png
 Name: PKC_无根
 
+Package: com.my.lingdongvideo
+Version: 0.1.4.603
+Architecture: iphoneos-arm64e
+Maintainer: 夜辰
+Installed-Size: 1184
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, firmware (>= 16.0)
+Filename: debs/com.my.lingdongvideo_0.1.4.603_iphoneos-arm64e.deb
+Size: 348372
+MD5sum: 8fb96ce3bebde22e821830f61a02f1a5
+SHA1: cd5220a86483645b4a1a07f51d3713ac768393d8
+SHA256: cff27b2c8a47496d57c956d8b1691adba85ebff2b7c0a7be56cbdee9792f9719
+Section: Tweaks
+Description: 为灵动岛音乐播放、展开态和通知场景增加统一视频背景。
+Author: 夜辰
+Name: 灵动岛视频背景
+
+Package: com.my.lingdongvideo
+Version: 0.1.4.603
+Architecture: iphoneos-arm64
+Maintainer: 夜辰
+Installed-Size: 1184
+Depends: mobilesubstrate, preferenceloader, firmware (>= 16.0)
+Filename: debs/com.my.lingdongvideo_0.1.4.603_iphoneos-arm64.deb
+Size: 238802
+MD5sum: 9a865e6a896988931d323baf05f6adfc
+SHA1: 7a531f6e2b42487be695136a4d47f99d5e3662d4
+SHA256: f2b3a788ca3166a33e062453097da8946916607cae2028ac120573cfdfb6034d
+Section: Tweaks
+Description: 为灵动岛音乐播放、展开态和通知场景增加统一视频背景。
+Author: 夜辰
+Name: 灵动岛视频背景
+
 Package: com.simon.ccweathermodule
 Version: 1.0.4
 Architecture: iphoneos-arm64e
