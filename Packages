@@ -1,3 +1,22 @@
+Package: com.Axs.reachplayer
+Version: 2.6
+Architecture: iphoneos-arm64e
+Maintainer: ETHN
+Installed-Size: 3636
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/com.Axs.reachplayer_2.6_iphoneos-arm64e.deb
+Size: 1149752
+MD5sum: c5b5e34df69bb9f5d8e9e2e7acc2e22c
+SHA1: 6d5973670252abf8f4410f3b056e2deeb99487b6
+SHA256: db8ab1bb3ed9848a1978ffa0068475c2bcd1601b8e36a483c162138b4639cfba
+Section: 控制中心
+Description: ReachPlayer便捷访问音乐专辑
+Author: ETHN
+Icon: https://axs66.github.io/pro/icon/reachplayer.png
+Name: ReachPlayer音乐专辑
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/reachplayer/js.json
+
 Package: com.HBWechatHelper.ailun
 Version: 2.1.3
 Architecture: iphoneos-arm64e
@@ -50,6 +69,74 @@ Description: 灵动岛背景？
 Author: 冰蓝
 Name: DynamicFX
 
+Package: com.binglan.kongzhidiy
+Version: 2.3.6-end
+Architecture: iphoneos-arm64
+Maintainer: binglan
+Installed-Size: 8024
+Depends: mobilesubstrate, firmware (>= 15.0), com.opa334.ccsupport
+Filename: ./debs/冰蓝控制中心美化_2.3.6-end_iphoneos-arm64.deb
+Size: 3737830
+MD5sum: c41451e2abd93846ec2ce0876603fd3c
+SHA1: 269b1fc174a86037f9a9f8e18975d533817770c2
+SHA256: 353a6bd6843867713774414fe5d4bad552580ec5c4fee8e37e01b451d456fe57
+Section: Tweaks
+Description: 控制中心中心美化？
+Author: binglan
+Icon: https://i.imgs.ovh/2026/06/10/dfb8c206be141bb3c7d070b29d0d9d56.jpg
+Name: CCPrimeX
+
+Package: com.binglan.kongzhidiy
+Version: 2.3.6-end
+Architecture: iphoneos-arm64e
+Maintainer: binglan
+Installed-Size: 8024
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 15.0), com.opa334.ccsupport
+Filename: ./debs/冰蓝控制中心美化_2.3.6-end_iphoneos-arm64e.deb
+Size: 8012172
+MD5sum: 2242ff2cc3dddb32e7673c7cb401fafc
+SHA1: 372477b8e897ffaf81b496a6d2e0bc43e99d12ec
+SHA256: 11a6b76e2bca7b7607f081b80c98fca9c40e27d5a75b681bac7340fd136f3986
+Section: Tweaks
+Description: 控制中心中心美化？
+Author: binglan
+Icon: https://i.imgs.ovh/2026/06/10/dfb8c206be141bb3c7d070b29d0d9d56.jpg
+Name: CCPrimeX
+
+Package: com.binglanqjsy.deb
+Version: 4.1.6-end
+Architecture: iphoneos-arm64
+Maintainer: 冰蓝
+Installed-Size: 2496
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/ 冰蓝全局水印 pro(无根).deb
+Size: 492426
+MD5sum: 2ebd83051d4c792fd4e8d6386139f257
+SHA1: 79507bcc05fb9a715c567b507b334be752f4dde7
+SHA256: 00778c7a6f72d1de9286410d54914cb21ab9055158f74a784aed8f15f369a7a8
+Section: Tweaks
+Description: 让简单截图，拥有更多可能。
+Author: 冰蓝
+Name: 全局水印Pro
+
+Package: com.binglanqjsy.deb
+Version: 4.1.6-end
+Architecture: iphoneos-arm64e
+Maintainer: 冰蓝
+Installed-Size: 2496
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/冰蓝全局水印pro.deb
+Size: 1449116
+MD5sum: 49ef667e2577a2975844872c029a4e31
+SHA1: 0068cc59159accbb50ec2706ba49e5c0091ac6f9
+SHA256: f80f9b35e4b8f393a443f564309514c8479c386dffe8b9c86afcbab487d4825a
+Section: Tweaks
+Description: 让简单截图，拥有更多可能。
+Author: 冰蓝
+Name: 全局水印Pro
+
 Package: com.charlieleung.liquidify
 Version: 1.2.0
 Architecture: iphoneos-arm64e
@@ -65,6 +152,22 @@ Section: Tweaks
 Description: 为 iOS 界面注入液态玻璃质感。
 Author: Charlie Leung
 Name: Liquidify
+
+Package: com.charlieleung.pbwallpaper
+Version: 2.0.2
+Architecture: iphoneos-arm64
+Maintainer: Charlie Leung
+Installed-Size: 18132
+Depends: firmware (>= 16.0),mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debs/1456393707.deb
+Size: 4631176
+MD5sum: 60e7c185b3bc385882d8d49729e6a6b6
+SHA1: f673411d1b13f6e50826b6ec10b4f98baa32b999
+SHA256: 8282fc5025d65a5677cfa8326ca173abfe4239dd0b9784e5ebf91cea3ad81d9c
+Section: Tweaks
+Description: 越狱版交互壁纸，解锁满血版交互壁纸，支持 ios16 以上系统。
+Author: Charlie Leung
+Name: PBWallpaper
 
 Package: com.curtin.pkc.rootless
 Version: 0.9-7
@@ -101,6 +204,68 @@ Description: AI对话、AI聊天分析、AI朋友圈分析、AI图像生成、AI
 Author: Curtin
 Icon: https://raw.githubusercontent.com/curtinlv/PKCUpdateLog/main/img/pkc_4_135x135.png
 Name: PKC_无根
+
+Package: com.custom.zdy
+Version: 1.2.9
+Architecture: iphoneos-arm64
+Maintainer: Custom <1784443840@qq.com>
+Depends: mobilesubstrate | ellekit
+Filename: ./debs/ZDY_v1.2.9_iphoneos-arm64.deb
+Size: 481840
+MD5sum: 0b421d3b277676822663b0ad7209ad47
+SHA1: aafa98d8e998b7b798a61363886809a59a358002
+SHA256: 2a79d5b6ae18279bbc650c7d72ff722eedd4d77c5deca117f079b73dd78e63d2
+Section: Tweaks
+Description: ZDY 自定义工具 v1.2.9
+Author: Custom
+Name: ZDY
+
+Package: com.custom.zdy
+Version: 1.2.9
+Architecture: iphoneos-arm64e
+Maintainer: Custom <1784443840@qq.com>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate | ellekit
+Filename: ./debs/ZDY_v1.2.9_iphoneos-arm64e.deb
+Size: 1406286
+MD5sum: c68f61a91902dc9dadbbd1a61ba522b4
+SHA1: 5eee77cb4c97cbe49a796aae0641c8ec701e7b50
+SHA256: f842c8d6194b50137e1a2922456e72aa2ec465804c668892daf17cc75bc588db
+Section: Tweaks
+Description: ZDY 自定义工具 v1.2.9
+Author: Custom
+Name: ZDY
+
+Package: com.guozi.wechatnewtool
+Version: 5.2.1
+Architecture: iphoneos-arm64
+Maintainer: GuoZi
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
+Filename: ./debs/果汁的朋友圈_5.2.1正式版.deb
+Size: 12776220
+MD5sum: 284a2bfac9c7df03b3509e7c6ebcf79d
+SHA1: cd4410f7d67d76779c9cf50c1fecff8fef396112
+SHA256: 6088c72837dfde424e139708eb11a9fead7e47424c4b011714d7a53ca511da29
+Section: Tweaks
+Description: 你的微信,岂止于此,点到为止,一个即可.果汁的朋友圈,一个全新的综合性插件,你想要的全都有
+Author: GuoZi
+Name: 果汁的朋友圈
+
+Package: com.guozi.wechatnewtool
+Version: 520-V7
+Architecture: iphoneos-arm64e
+Maintainer: GuoZi
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
+Filename: ./debs/果汁的朋友圈520V7 隐根.deb
+Size: 41202872
+MD5sum: 4dc7ac96ef0faa1dfd73327e7949626e
+SHA1: 3c72c8272f7c3c7a5dcdce62990667a9d64a0026
+SHA256: bea512f049a30e5a64dcdc77b81911bf571e880bd9c5ea88bffec52ae2b92571
+Section: Tweaks
+Description: 你的微信,岂止于此,点到为止,一个即可.果汁的朋友圈,一个全新的综合性插件,你想要的全都有
+Author: GuoZi
+Name: 果汁的朋友圈
 
 Package: com.my.lingdongvideo
 Version: 0.1.4.603
@@ -151,4 +316,40 @@ Section: Tweaks
 Description: 控制中心的天气模块。 显示当前天气、温度和每小时预报。
 Author: simon
 Name: CCWeather Module
+
+Package: com.simon.dynamicislandanimation
+Version: 2.4
+Architecture: iphoneos-arm64e
+Maintainer: Simon
+Installed-Size: 560
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/com.simon.dynamicislandanimation_2.4_iphoneos-arm64e.deb
+Size: 103102
+MD5sum: 13b9d7faaab43a9b738810c6aac52bcd
+SHA1: 96246fbcac2175567e4304334233fd46b271667e
+SHA256: 44ea821c0566efdef2a5fa9cd3cdc4519a569854704735aba1374bd521222ec4
+Section: Tweaks
+Description: 用于灵动岛专辑及屏幕录制动态跳舞动画整合 无需挂载不再卑微！
+Author: Simon
+Name: 灵动岛跳舞动画PLUS
+
+Package: com.sini921.folderpro
+Version: 0.0.1-39+beta5
+Architecture: iphoneos-arm64e
+Maintainer: SINI
+Installed-Size: 1660
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.sini921.folderpro_0.0.1-39+beta5_iphoneos-arm64e.deb
+Size: 610980
+MD5sum: 0ce3696e8d330c31fd7018d422e7c59c
+SHA1: 4bd9f589b8678d5f8b09ce7ad5e3f1ac6c6aeeb5
+SHA256: 9f66492b58f10f76c4e43a5c2b6ef13e46f5cded2e7ab0309afb40e64fafb83f
+Section: 越狱插件
+Description: 文件夹简单优化
+Author: SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/folderpro.png
+Name: FolderPro(rootless)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/folderpro/js.json
 
