@@ -52,6 +52,22 @@ Icon: https://axs66.github.io/pro/icon/dynamicnotland.png
 Name: ios16灵动岛
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/ios16dao/js.json
 
+Package: com.binglan.dongtaidao
+Version: 2.0.5
+Architecture: iphoneos-arm64
+Maintainer: binglan
+Installed-Size: 476
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Filename: ./debs/com.binglan.dongtaidao_2.0.5_iphoneos-arm64.deb
+Size: 52500
+MD5sum: f4a85c070eb5c0a8eebffdf5b509a831
+SHA1: af7630cc9cde121ddf596fe2f83c04002100764e
+SHA256: ee6135a5d397b4323cc95180668132d431b5552a7ff68a90a660849e2d8ff5d7
+Section: Tweaks
+Description: 灵动岛增加视频背景。
+Author: binglan
+Name: 动态岛
+
 Package: com.binglan.dynamicfx
 Version: 1.0.7
 Architecture: iphoneos-arm64e
