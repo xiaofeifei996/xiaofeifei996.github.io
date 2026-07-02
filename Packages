@@ -76,11 +76,11 @@ Installed-Size: 772
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
 Filename: ./debs/冰蓝灵动岛_1.0.7_iphoneos-arm64e.deb
-Size: 168752
-MD5sum: 63a96effed702a68daae7bfb1691028b
-SHA1: 72a4b9e2c113472bfebfe22cbab96f0926ce80af
-SHA256: d3174702f63bc5f54169a896648aa27237900fc2cf702875af3cbd9ee591f15e
-Section: Tweaks
+Size: 117440
+MD5sum: c016b792bae2ec0a97229aeeefcf8e50
+SHA1: 998e4028d9391c82677f435679300033b7b49ba9
+SHA256: a56c6bd2e972b19727e5242b63c1bae4e5aababbae393cadb7db0921f1896c80
+Section: 灵动岛
 Description: 灵动岛背景？
 Author: 冰蓝
 Name: DynamicFX
@@ -176,6 +176,39 @@ Maintainer: Charlie Leung
 Installed-Size: 18132
 Depends: firmware (>= 16.0),mobilesubstrate (>= 0.9.5000), preferenceloader
 Filename: ./debs/1456393707.deb
+Size: 4631176
+MD5sum: 60e7c185b3bc385882d8d49729e6a6b6
+SHA1: f673411d1b13f6e50826b6ec10b4f98baa32b999
+SHA256: 8282fc5025d65a5677cfa8326ca173abfe4239dd0b9784e5ebf91cea3ad81d9c
+Section: Tweaks
+Description: 越狱版交互壁纸，解锁满血版交互壁纸，支持 ios16 以上系统。
+Author: Charlie Leung
+Name: PBWallpaper
+
+Package: com.charlieleung.pbwallpaper
+Version: 2.0.2
+Architecture: iphoneos-arm64e
+Maintainer: Charlie Leung
+Installed-Size: 18132
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 16.0),mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debs/PBWallpaper_2.0.2隐根.deb
+Size: 9206224
+MD5sum: d5235f186c4b984dae174eb9d707fb52
+SHA1: 158bd68202dd1539111bd2393f18cced8c72be9b
+SHA256: 7164931e8162d367a4adb19c54015e43858488c5208934ef32143ee39387fa01
+Section: 交互壁纸
+Description: 越狱版交互壁纸，解锁满血版交互壁纸，支持 ios16 以上系统。
+Author: Charlie Leung
+Name: PBWallpaper
+
+Package: com.charlieleung.pbwallpaper
+Version: 2.0.2
+Architecture: iphoneos-arm64
+Maintainer: Charlie Leung
+Installed-Size: 18132
+Depends: firmware (>= 16.0),mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debs/PBWallpaper_2.0.2无根.deb
 Size: 4631176
 MD5sum: 60e7c185b3bc385882d8d49729e6a6b6
 SHA1: f673411d1b13f6e50826b6ec10b4f98baa32b999
